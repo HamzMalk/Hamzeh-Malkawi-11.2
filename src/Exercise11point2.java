@@ -1,10 +1,10 @@
 public class Exercise11point2 {
     public static void main(String[] args) {
-      Person person = new Person("Peter");
-      Student student = new Student("Susan");
-      Employee employee = new Employee("Eva");
-      Faculty faculty = new Faculty("Frank");
-      Staff staff = new Staff("Shane");
+      Person person = new Person("Monica");
+      Student student = new Student("Chandler");
+      Employee employee = new Employee("Joey");
+      Faculty faculty = new Faculty("Phoebe");
+      Staff staff = new Staff("Rachel");
       
       System.out.println(person);
       System.out.println(student);
